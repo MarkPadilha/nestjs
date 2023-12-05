@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nestjs/mapped-types": "^2.0.4",
+    "@nestjs/typeorm": "^10.0.1",
+    "mysql2": "^3.6.5",
+    "typeorm": "^0.3.17"
+  },
+  "devDependencies": {
+    "@nestjs/testing": "^10.2.10"
+  }
+}
